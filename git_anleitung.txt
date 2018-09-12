@@ -1,9 +1,18 @@
 -----------------------------------------------------------------------------
-Git Anleitung
+Git Commit-Anleitung | Nützliche Befehle
+-----------------------------------------------------------------------------
+Commit
 -----------------------------------------------------------------------------
 1.) Anmelden bei Git. (https://github.com)
-2.) Links das Repository ausw�hlen. (IN17_SQL)
-3.) Upload Files w�hlen.
+2.) Links das Repository auswählen. (IN17_SQL)
+3.) Upload Files wählen.
 4.) Datei in Feld "Drag files here..." ziehen.
-5.) Branch ausw�hlen.
-6.) Commit changes.
+5.) Branch auswählen.
+6.) Beschreibung hinzufügen.
+    Nicht was geändert wurde, sondern warum es geändert wurde
+7.) Commit changes.
+-----------------------------------------------------------------------------
+Nachträgliche Anpassungen der Datei -> Edit File
+-----------------------------------------------------------------------------
+Blame: Nutzer anzeigen, die Änderungen an der datei vorgenommen haben.
+-----------------------------------------------------------------------------
