@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------
+Git Anleitung
+-----------------------------------------------------------------------------
+1.) Anmelden bei Git. (https://github.com)
+2.) Links das Repository auswählen. (IN17_SQL)
+3.) Upload Files wählen.
+4.) Datei in Feld "Drag files here..." ziehen.
+5.) Branch auswählen.
+6.) Commit changes.
