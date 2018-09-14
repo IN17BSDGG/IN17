@@ -1,1 +1,1 @@
-# Willkommen auf der Wiki-Übersicht des Projekts von der IN17
+# Willkommen auf der Übersicht des Projekts von der IN17
