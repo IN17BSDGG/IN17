@@ -1,0 +1,8 @@
+Versucht, Muster-CSV Datei mit SSIS in Datenbank geschrieben
+Das Projekt liegt in Z:\Datenbanken\Projekt\C# Projekte
+Keine Admin-Rechte auf Server und kein Administrator war da
+
+Programm wird aufgrund der Probleme nun doch in C# umgesetzt
+C# Projekt auch in Z:\Datenbanken\Projekt\C# Projekte
+In C#:
+Daten aus CSV in DataTable-Objekt geschrieben
