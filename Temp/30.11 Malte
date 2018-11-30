@@ -1,0 +1,7 @@
+1. Problem: Genauer Zusammensetzung der Werte nicht bekannt. Bremen mit Campingplätze und MacPom ohne?
+  Lösung: In den Dokumenten war die Zusammensetzung aufgeführt (z.B. Hotels, Campingplätze, Ferienhäuser). 
+  Diese war bei den Bundesländern identisch
+
+1. Aufgabe: Daten von MacPom von xls in csv umgewandelt. [Abgeschlossen] https://github.com/IN17BSDGG/IN17/issues/11
+2. Aufgabe: Monats csv Dateien zu jeweils einer Jahres csv zusammengefasst. [Abgeschlossen]
+3. Aufgabe: Datenanalyse-Tools raussuchen und bewerten. [Noch in Arbeit] https://github.com/IN17BSDGG/IN17/issues/22
