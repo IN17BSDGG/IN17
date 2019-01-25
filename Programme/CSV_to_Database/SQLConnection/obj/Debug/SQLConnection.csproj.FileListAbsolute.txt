@@ -1,0 +1,13 @@
+Z:\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\bin\Debug\SQLConnection.exe.config
+Z:\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\bin\Debug\SQLConnection.exe
+Z:\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\bin\Debug\SQLConnection.pdb
+Z:\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\obj\Debug\SQLConnection.csprojResolveAssemblyReference.cache
+Z:\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\obj\Debug\SQLConnection.exe
+Z:\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\obj\Debug\SQLConnection.pdb
+X:\Informatik\IN17\dirksk\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\bin\Debug\SQLConnection.exe.config
+X:\Informatik\IN17\dirksk\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\obj\Debug\SQLConnection.exe
+X:\Informatik\IN17\dirksk\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\obj\Debug\SQLConnection.pdb
+X:\Informatik\IN17\dirksk\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\bin\Debug\SQLConnection.exe
+X:\Informatik\IN17\dirksk\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\bin\Debug\SQLConnection.pdb
+X:\Informatik\IN17\dirksk\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\obj\Debug\SQLConnection.csprojAssemblyReference.cache
+X:\Informatik\IN17\dirksk\Datenbanken\Projekt\C# Projekte\SQLConnection\SQLConnection\obj\Debug\SQLConnection.csproj.CoreCompileInputs.cache
