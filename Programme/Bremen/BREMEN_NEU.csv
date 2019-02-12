@@ -1,0 +1,783 @@
+469-30: Beherbergungsbetriebe, Gästebetten, -übernachtungen, -ankünfte nach Betriebsarten (Monatszahlen)
+Gebietsschlüssel;Gebietseinheit;Zeit;Betriebsart;Tourismus (Monatszahlen) 1);Tourismus (Monatszahlen) 1);Tourismus (Monatszahlen) 1);Tourismus (Monatszahlen) 1);Tourismus (Monatszahlen) 1);Tourismus (Monatszahlen) 1)
+;;;;geöffnete Beherbergungsbetriebe;angebotene Gästebetten 2);Gästeübernachtungen;Gästeübernachtungen;Gästeankünfte;Gästeankünfte
+;;;;;;insgesamt;darunter aus dem Ausland;insgesamt;darunter aus dem Ausland
+04011;Stadt Bremen;2018-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;11072;176493;42883;102430;24084
+04011;Stadt Bremen;2018-08;Sonstige Einrichtungen 3);6;752;15089;4339;3330;2651
+04011;Stadt Bremen;2018-08;Insgesamt;94;11824;191582;47222;105760;26735
+04011;Stadt Bremen;2018-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;11072;152444;44359;87990;25412
+04011;Stadt Bremen;2018-07;Sonstige Einrichtungen 3);6;752;13855;4606;2959;2890
+04011;Stadt Bremen;2018-07;Insgesamt;94;11824;166299;48965;90949;28302
+04011;Stadt Bremen;2018-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;11072;163785;36804;93459;19946
+04011;Stadt Bremen;2018-06;Sonstige Einrichtungen 3);6;752;14274;2559;3011;1499
+04011;Stadt Bremen;2018-06;Insgesamt;94;11824;178059;39363;96470;21445
+04011;Stadt Bremen;2018-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;11072;166837;41735;94775;21379
+04011;Stadt Bremen;2018-05;Sonstige Einrichtungen 3);6;752;13714;1967;3272;1180
+04011;Stadt Bremen;2018-05;Insgesamt;94;11824;180551;43702;98047;22559
+04011;Stadt Bremen;2018-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;11072;161139;36984;92813;19355
+04011;Stadt Bremen;2018-04;Sonstige Einrichtungen 3);6;752;12228;1611;2648;855
+04011;Stadt Bremen;2018-04;Insgesamt;94;11824;173367;38595;95461;20210
+04011;Stadt Bremen;2018-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;11072;141357;28221;81357;14104
+04011;Stadt Bremen;2018-03;Sonstige Einrichtungen 3);6;752;12570;926;2536;477
+04011;Stadt Bremen;2018-03;Insgesamt;94;11824;153927;29147;83893;14581
+04011;Stadt Bremen;2018-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;11072;131532;25028;76680;12428
+04011;Stadt Bremen;2018-02;Sonstige Einrichtungen 3);6;752;11177;969;2115;387
+04011;Stadt Bremen;2018-02;Insgesamt;94;11824;142709;25997;78795;12815
+04011;Stadt Bremen;2018-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;11072;121474;22687;72080;11560
+04011;Stadt Bremen;2018-01;Sonstige Einrichtungen 3);6;752;9224;498;1576;225
+04011;Stadt Bremen;2018-01;Insgesamt;94;11824;130698;23185;73656;11785
+04011;Stadt Bremen;2017-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;163968;33141;94604;17021
+04011;Stadt Bremen;2017-12;Sonstige Einrichtungen 3);6;680;10925;726;2123;280
+04011;Stadt Bremen;2017-12;Insgesamt;90;11128;174893;33867;96727;17301
+04011;Stadt Bremen;2017-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;152793;31463;89681;16063
+04011;Stadt Bremen;2017-11;Sonstige Einrichtungen 3);6;680;13303;1372;2718;450
+04011;Stadt Bremen;2017-11;Insgesamt;90;11128;166096;32835;92399;16513
+04011;Stadt Bremen;2017-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;170548;36260;96243;18402
+04011;Stadt Bremen;2017-10;Sonstige Einrichtungen 3);6;680;14333;1208;3415;669
+04011;Stadt Bremen;2017-10;Insgesamt;90;11128;184881;37468;99658;19071
+04011;Stadt Bremen;2017-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;171550;36632;97772;20052
+04011;Stadt Bremen;2017-09;Sonstige Einrichtungen 3);6;680;14315;1842;3760;949
+04011;Stadt Bremen;2017-09;Insgesamt;90;11128;185865;38474;101532;21001
+04011;Stadt Bremen;2017-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;168929;44921;94993;23981
+04011;Stadt Bremen;2017-08;Sonstige Einrichtungen 3);6;680;14557;3893;3747;2234
+04011;Stadt Bremen;2017-08;Insgesamt;90;11128;183486;48814;98740;26215
+04011;Stadt Bremen;2017-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;153866;47014;88159;26185
+04011;Stadt Bremen;2017-07;Sonstige Einrichtungen 3);6;680;13995;5043;3661;3096
+04011;Stadt Bremen;2017-07;Insgesamt;90;11128;167861;52057;91820;29281
+04011;Stadt Bremen;2017-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;152970;36107;87768;19266
+04011;Stadt Bremen;2017-06;Sonstige Einrichtungen 3);6;680;14332;2673;3969;1513
+04011;Stadt Bremen;2017-06;Insgesamt;90;11128;167302;38780;91737;20779
+04011;Stadt Bremen;2017-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;163352;36609;94059;18801
+04011;Stadt Bremen;2017-05;Sonstige Einrichtungen 3);6;680;14653;2662;3473;1307
+04011;Stadt Bremen;2017-05;Insgesamt;90;11128;178005;39271;97532;20108
+04011;Stadt Bremen;2017-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;149865;36926;86571;19740
+04011;Stadt Bremen;2017-04;Sonstige Einrichtungen 3);6;680;13991;2029;3423;1030
+04011;Stadt Bremen;2017-04;Insgesamt;90;11128;163856;38955;89994;20770
+04011;Stadt Bremen;2017-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;134793;27961;80827;14668
+04011;Stadt Bremen;2017-03;Sonstige Einrichtungen 3);6;680;14420;904;2900;394
+04011;Stadt Bremen;2017-03;Insgesamt;90;11128;149213;28865;83727;15062
+04011;Stadt Bremen;2017-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;119149;24556;71231;12523
+04011;Stadt Bremen;2017-02;Sonstige Einrichtungen 3);6;680;10895;927;2129;369
+04011;Stadt Bremen;2017-02;Insgesamt;90;11128;130044;25483;73360;12892
+04011;Stadt Bremen;2017-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;84;10448;110495;23312;67141;12241
+04011;Stadt Bremen;2017-01;Sonstige Einrichtungen 3);6;680;10759;598;2125;241
+04011;Stadt Bremen;2017-01;Insgesamt;90;11128;121254;23910;69266;12482
+04011;Stadt Bremen;2016-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;149675;31709;89032;16464
+04011;Stadt Bremen;2016-12;Sonstige Einrichtungen 3);5;638;11660;993;2386;489
+04011;Stadt Bremen;2016-12;Insgesamt;88;11103;161335;32702;91418;16953
+04011;Stadt Bremen;2016-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;148395;31110;88135;16251
+04011;Stadt Bremen;2016-11;Sonstige Einrichtungen 3);5;638;12958;916;2677;450
+04011;Stadt Bremen;2016-11;Insgesamt;88;11103;161353;32026;90812;16701
+04011;Stadt Bremen;2016-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;169890;37851;96294;19625
+04011;Stadt Bremen;2016-10;Sonstige Einrichtungen 3);5;638;14810;1307;3477;675
+04011;Stadt Bremen;2016-10;Insgesamt;88;11103;184700;39158;99771;20300
+04011;Stadt Bremen;2016-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;167234;37668;96083;19533
+04011;Stadt Bremen;2016-09;Sonstige Einrichtungen 3);5;638;15761;1546;3658;778
+04011;Stadt Bremen;2016-09;Insgesamt;88;11103;182995;39214;99741;20311
+04011;Stadt Bremen;2016-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;161448;41172;91722;21970
+04011;Stadt Bremen;2016-08;Sonstige Einrichtungen 3);5;638;15887;3190;3888;1900
+04011;Stadt Bremen;2016-08;Insgesamt;88;11103;177335;44362;95610;23870
+04011;Stadt Bremen;2016-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;142027;43986;80521;23918
+04011;Stadt Bremen;2016-07;Sonstige Einrichtungen 3);5;638;15686;4548;3861;2553
+04011;Stadt Bremen;2016-07;Insgesamt;88;11103;157713;48534;84382;26471
+04011;Stadt Bremen;2016-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;144791;35489;83447;18282
+04011;Stadt Bremen;2016-06;Sonstige Einrichtungen 3);5;638;15722;2624;3480;1376
+04011;Stadt Bremen;2016-06;Insgesamt;88;11103;160513;38113;86927;19658
+04011;Stadt Bremen;2016-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;159840;35515;87893;18407
+04011;Stadt Bremen;2016-05;Sonstige Einrichtungen 3);5;638;15165;1997;3539;949
+04011;Stadt Bremen;2016-05;Insgesamt;88;11103;175005;37512;91432;19356
+04011;Stadt Bremen;2016-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;153846;36747;89356;19275
+04011;Stadt Bremen;2016-04;Sonstige Einrichtungen 3);5;638;14421;1346;2956;583
+04011;Stadt Bremen;2016-04;Insgesamt;88;11103;168267;38093;92312;19858
+04011;Stadt Bremen;2016-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;134409;29407;74882;14972
+04011;Stadt Bremen;2016-03;Sonstige Einrichtungen 3);5;638;14794;1029;2983;426
+04011;Stadt Bremen;2016-03;Insgesamt;88;11103;149203;30436;77865;15398
+04011;Stadt Bremen;2016-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;130507;27809;75678;14516
+04011;Stadt Bremen;2016-02;Sonstige Einrichtungen 3);5;638;11844;679;1919;203
+04011;Stadt Bremen;2016-02;Insgesamt;88;11103;142351;28488;77597;14719
+04011;Stadt Bremen;2016-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;10465;108974;22621;62897;11256
+04011;Stadt Bremen;2016-01;Sonstige Einrichtungen 3);5;638;14381;722;1874;267
+04011;Stadt Bremen;2016-01;Insgesamt;88;11103;123355;23343;64771;11523
+04011;Stadt Bremen;2015-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;149004;35736;87491;18345
+04011;Stadt Bremen;2015-12;Sonstige Einrichtungen 3);6;701;14293;1131;2126;441
+04011;Stadt Bremen;2015-12;Insgesamt;94;11467;163297;36867;89617;18786
+04011;Stadt Bremen;2015-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;153293;35068;87993;17527
+04011;Stadt Bremen;2015-11;Sonstige Einrichtungen 3);6;701;12759;836;2720;342
+04011;Stadt Bremen;2015-11;Insgesamt;94;11467;166052;35904;90713;17869
+04011;Stadt Bremen;2015-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;173429;40117;98219;19655
+04011;Stadt Bremen;2015-10;Sonstige Einrichtungen 3);6;701;15935;1372;3707;603
+04011;Stadt Bremen;2015-10;Insgesamt;94;11467;189364;41489;101926;20258
+04011;Stadt Bremen;2015-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;163067;34545;92702;17879
+04011;Stadt Bremen;2015-09;Sonstige Einrichtungen 3);6;701;14467;1407;3389;786
+04011;Stadt Bremen;2015-09;Insgesamt;94;11467;177534;35952;96091;18665
+04011;Stadt Bremen;2015-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;157586;42637;87325;22409
+04011;Stadt Bremen;2015-08;Sonstige Einrichtungen 3);6;701;15008;4191;3586;2341
+04011;Stadt Bremen;2015-08;Insgesamt;94;11467;172594;46828;90911;24750
+04011;Stadt Bremen;2015-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;153089;47346;88303;26234
+04011;Stadt Bremen;2015-07;Sonstige Einrichtungen 3);6;701;16219;4934;3967;2921
+04011;Stadt Bremen;2015-07;Insgesamt;94;11467;169308;52280;92270;29155
+04011;Stadt Bremen;2015-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;154135;38524;88761;19785
+04011;Stadt Bremen;2015-06;Sonstige Einrichtungen 3);6;701;14825;1995;3554;1008
+04011;Stadt Bremen;2015-06;Insgesamt;94;11467;168960;40519;92315;20793
+04011;Stadt Bremen;2015-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;158045;35215;88171;17822
+04011;Stadt Bremen;2015-05;Sonstige Einrichtungen 3);6;701;16107;2736;3721;1200
+04011;Stadt Bremen;2015-05;Insgesamt;94;11467;174152;37951;91892;19022
+04011;Stadt Bremen;2015-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;136248;35497;79347;19001
+04011;Stadt Bremen;2015-04;Sonstige Einrichtungen 3);6;701;13855;1939;2862;927
+04011;Stadt Bremen;2015-04;Insgesamt;94;11467;150103;37436;82209;19928
+04011;Stadt Bremen;2015-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;131369;30837;75231;15040
+04011;Stadt Bremen;2015-03;Sonstige Einrichtungen 3);6;701;15410;1330;2903;516
+04011;Stadt Bremen;2015-03;Insgesamt;94;11467;146779;32167;78134;15556
+04011;Stadt Bremen;2015-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;117079;24094;68576;12584
+04011;Stadt Bremen;2015-02;Sonstige Einrichtungen 3);6;701;13786;1356;2431;524
+04011;Stadt Bremen;2015-02;Insgesamt;94;11467;130865;25450;71007;13108
+04011;Stadt Bremen;2015-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;88;10766;111513;25647;63832;12090
+04011;Stadt Bremen;2015-01;Sonstige Einrichtungen 3);6;701;12709;997;2251;338
+04011;Stadt Bremen;2015-01;Insgesamt;94;11467;124222;26644;66083;12428
+04011;Stadt Bremen;2014-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;144775;35979;83815;17832
+04011;Stadt Bremen;2014-12;Sonstige Einrichtungen 3);5;678;14697;1213;2728;466
+04011;Stadt Bremen;2014-12;Insgesamt;94;10589;159472;37192;86543;18298
+04011;Stadt Bremen;2014-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;160341;41548;86314;17508
+04011;Stadt Bremen;2014-11;Sonstige Einrichtungen 3);5;678;15075;1313;2678;434
+04011;Stadt Bremen;2014-11;Insgesamt;94;10589;175416;42861;88992;17942
+04011;Stadt Bremen;2014-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;172140;38710;98423;18872
+04011;Stadt Bremen;2014-10;Sonstige Einrichtungen 3);5;678;15978;1475;3554;560
+04011;Stadt Bremen;2014-10;Insgesamt;94;10589;188118;40185;101977;19432
+04011;Stadt Bremen;2014-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;154124;36293;88012;18418
+04011;Stadt Bremen;2014-09;Sonstige Einrichtungen 3);5;678;15430;1433;3691;601
+04011;Stadt Bremen;2014-09;Insgesamt;94;10589;169554;37726;91703;19019
+04011;Stadt Bremen;2014-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;148902;37779;81635;18895
+04011;Stadt Bremen;2014-08;Sonstige Einrichtungen 3);5;678;14768;4122;3390;2243
+04011;Stadt Bremen;2014-08;Insgesamt;94;10589;163670;41901;85025;21138
+04011;Stadt Bremen;2014-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;141677;39646;81709;21553
+04011;Stadt Bremen;2014-07;Sonstige Einrichtungen 3);5;678;16805;4614;4082;2681
+04011;Stadt Bremen;2014-07;Insgesamt;94;10589;158482;44260;85791;24234
+04011;Stadt Bremen;2014-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;137744;34142;78633;17806
+04011;Stadt Bremen;2014-06;Sonstige Einrichtungen 3);5;678;13791;1661;3243;791
+04011;Stadt Bremen;2014-06;Insgesamt;94;10589;151535;35803;81876;18597
+04011;Stadt Bremen;2014-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;153176;37989;87167;18770
+04011;Stadt Bremen;2014-05;Sonstige Einrichtungen 3);5;678;15174;1658;3399;793
+04011;Stadt Bremen;2014-05;Insgesamt;94;10589;168350;39647;90566;19563
+04011;Stadt Bremen;2014-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;127660;35659;70611;16658
+04011;Stadt Bremen;2014-04;Sonstige Einrichtungen 3);5;678;14019;2089;3237;883
+04011;Stadt Bremen;2014-04;Insgesamt;94;10589;141679;37748;73848;17541
+04011;Stadt Bremen;2014-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;132378;29081;74329;13472
+04011;Stadt Bremen;2014-03;Sonstige Einrichtungen 3);5;678;13464;1164;2610;415
+04011;Stadt Bremen;2014-03;Insgesamt;94;10589;145842;30245;76939;13887
+04011;Stadt Bremen;2014-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;117264;25472;68947;12416
+04011;Stadt Bremen;2014-02;Sonstige Einrichtungen 3);5;678;11723;1182;2445;433
+04011;Stadt Bremen;2014-02;Insgesamt;94;10589;128987;26654;71392;12849
+04011;Stadt Bremen;2014-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9911;104247;22650;61662;11357
+04011;Stadt Bremen;2014-01;Sonstige Einrichtungen 3);5;678;7244;866;1643;308
+04011;Stadt Bremen;2014-01;Insgesamt;94;10589;111491;23516;63305;11665
+04011;Stadt Bremen;2013-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;139035;35564;81172;18044
+04011;Stadt Bremen;2013-12;Sonstige Einrichtungen 3);4;443;7861;1139;2087;407
+04011;Stadt Bremen;2013-12;Insgesamt;93;10099;146896;36703;83259;18451
+04011;Stadt Bremen;2013-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;142219;33828;83753;17192
+04011;Stadt Bremen;2013-11;Sonstige Einrichtungen 3);4;443;8037;900;2502;412
+04011;Stadt Bremen;2013-11;Insgesamt;93;10099;150256;34728;86255;17604
+04011;Stadt Bremen;2013-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;149622;37775;85594;19298
+04011;Stadt Bremen;2013-10;Sonstige Einrichtungen 3);4;443;10209;852;3636;455
+04011;Stadt Bremen;2013-10;Insgesamt;93;10099;159831;38627;89230;19753
+04011;Stadt Bremen;2013-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;149401;34251;85592;16777
+04011;Stadt Bremen;2013-09;Sonstige Einrichtungen 3);4;443;9841;1289;2887;461
+04011;Stadt Bremen;2013-09;Insgesamt;93;10099;159242;35540;88479;17238
+04011;Stadt Bremen;2013-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;144278;37727;81517;19147
+04011;Stadt Bremen;2013-08;Sonstige Einrichtungen 3);4;443;10450;2931;3831;1408
+04011;Stadt Bremen;2013-08;Insgesamt;93;10099;154728;40658;85348;20555
+04011;Stadt Bremen;2013-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;129900;36288;74720;19131
+04011;Stadt Bremen;2013-07;Sonstige Einrichtungen 3);4;443;10028;3505;3554;1954
+04011;Stadt Bremen;2013-07;Insgesamt;93;10099;139928;39793;78274;21085
+04011;Stadt Bremen;2013-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;133750;33561;78015;17064
+04011;Stadt Bremen;2013-06;Sonstige Einrichtungen 3);4;443;8929;2277;2871;1029
+04011;Stadt Bremen;2013-06;Insgesamt;93;10099;142679;35838;80886;18093
+04011;Stadt Bremen;2013-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;145360;33749;81897;16726
+04011;Stadt Bremen;2013-05;Sonstige Einrichtungen 3);4;443;9164;1031;3317;525
+04011;Stadt Bremen;2013-05;Insgesamt;93;10099;154524;34780;85214;17251
+04011;Stadt Bremen;2013-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;126654;32172;73144;16287
+04011;Stadt Bremen;2013-04;Sonstige Einrichtungen 3);4;443;9106;1338;3069;693
+04011;Stadt Bremen;2013-04;Insgesamt;93;10099;135760;33510;76213;16980
+04011;Stadt Bremen;2013-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;108563;24917;62397;12810
+04011;Stadt Bremen;2013-03;Sonstige Einrichtungen 3);4;443;8810;1204;3344;452
+04011;Stadt Bremen;2013-03;Insgesamt;93;10099;117373;26121;65741;13262
+04011;Stadt Bremen;2013-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;103349;21737;60401;11313
+04011;Stadt Bremen;2013-02;Sonstige Einrichtungen 3);4;443;6765;571;3688;278
+04011;Stadt Bremen;2013-02;Insgesamt;93;10099;110114;22308;64089;11591
+04011;Stadt Bremen;2013-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;89;9656;96722;21289;57271;11063
+04011;Stadt Bremen;2013-01;Sonstige Einrichtungen 3);4;443;3715;370;1830;297
+04011;Stadt Bremen;2013-01;Insgesamt;93;10099;100437;21659;59101;11360
+04011;Stadt Bremen;2012-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;122664;26604;70336;13490
+04011;Stadt Bremen;2012-12;Sonstige Einrichtungen 3);3;331;3330;971;1643;399
+04011;Stadt Bremen;2012-12;Insgesamt;90;9599;125994;27575;71979;13889
+04011;Stadt Bremen;2012-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;130377;28959;75932;14552
+04011;Stadt Bremen;2012-11;Sonstige Einrichtungen 3);3;331;4787;905;2353;408
+04011;Stadt Bremen;2012-11;Insgesamt;90;9599;135164;29864;78285;14960
+04011;Stadt Bremen;2012-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;143148;35453;79280;17107
+04011;Stadt Bremen;2012-10;Sonstige Einrichtungen 3);3;331;7584;1115;3359;554
+04011;Stadt Bremen;2012-10;Insgesamt;90;9599;150732;36568;82639;17661
+04011;Stadt Bremen;2012-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;141300;30555;79252;15494
+04011;Stadt Bremen;2012-09;Sonstige Einrichtungen 3);3;331;7430;1153;3126;644
+04011;Stadt Bremen;2012-09;Insgesamt;90;9599;148730;31708;82378;16138
+04011;Stadt Bremen;2012-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;117250;31179;65311;15650
+04011;Stadt Bremen;2012-08;Sonstige Einrichtungen 3);3;331;7693;2926;3147;1426
+04011;Stadt Bremen;2012-08;Insgesamt;90;9599;124943;34105;68458;17076
+04011;Stadt Bremen;2012-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;122072;36398;68670;18106
+04011;Stadt Bremen;2012-07;Sonstige Einrichtungen 3);3;331;7574;3196;3492;1907
+04011;Stadt Bremen;2012-07;Insgesamt;90;9599;129646;39594;72162;20013
+04011;Stadt Bremen;2012-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;126161;32749;71559;17129
+04011;Stadt Bremen;2012-06;Sonstige Einrichtungen 3);3;331;6864;1973;3279;1059
+04011;Stadt Bremen;2012-06;Insgesamt;90;9599;133025;34722;74838;18188
+04011;Stadt Bremen;2012-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;124144;27256;73840;14529
+04011;Stadt Bremen;2012-05;Sonstige Einrichtungen 3);3;331;7230;1920;3136;787
+04011;Stadt Bremen;2012-05;Insgesamt;90;9599;131374;29176;76976;15316
+04011;Stadt Bremen;2012-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;116594;27292;68067;14476
+04011;Stadt Bremen;2012-04;Sonstige Einrichtungen 3);3;331;6751;1368;3079;722
+04011;Stadt Bremen;2012-04;Insgesamt;90;9599;123345;28660;71146;15198
+04011;Stadt Bremen;2012-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;109113;26174;66384;13980
+04011;Stadt Bremen;2012-03;Sonstige Einrichtungen 3);3;331;6136;630;2890;382
+04011;Stadt Bremen;2012-03;Insgesamt;90;9599;115249;26804;69274;14362
+04011;Stadt Bremen;2012-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;106855;21848;65893;12262
+04011;Stadt Bremen;2012-02;Sonstige Einrichtungen 3);3;331;2960;448;1573;251
+04011;Stadt Bremen;2012-02;Insgesamt;90;9599;109815;22296;67466;12513
+04011;Stadt Bremen;2012-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9268;96791;21002;59513;11155
+04011;Stadt Bremen;2012-01;Sonstige Einrichtungen 3);3;331;2701;468;1418;263
+04011;Stadt Bremen;2012-01;Insgesamt;90;9599;99492;21470;60931;11418
+04011;Stadt Bremen;2011-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;121608;28252;74691;15546
+04011;Stadt Bremen;2011-12;Sonstige Einrichtungen 3);3;331;3998;1135;2043;506
+04011;Stadt Bremen;2011-12;Insgesamt;90;9490;125606;29387;76734;16052
+04011;Stadt Bremen;2011-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;127856;28171;78588;14446
+04011;Stadt Bremen;2011-11;Sonstige Einrichtungen 3);3;331;5184;888;2530;455
+04011;Stadt Bremen;2011-11;Insgesamt;90;9490;133040;29059;81118;14901
+04011;Stadt Bremen;2011-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;140863;33313;81306;17159
+04011;Stadt Bremen;2011-10;Sonstige Einrichtungen 3);3;331;7508;1137;3798;550
+04011;Stadt Bremen;2011-10;Insgesamt;90;9490;148371;34450;85104;17709
+04011;Stadt Bremen;2011-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;138589;33398;79995;17159
+04011;Stadt Bremen;2011-09;Sonstige Einrichtungen 3);3;331;7392;1360;3753;781
+04011;Stadt Bremen;2011-09;Insgesamt;90;9490;145981;34758;83748;17940
+04011;Stadt Bremen;2011-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;128439;31941;73706;17707
+04011;Stadt Bremen;2011-08;Sonstige Einrichtungen 3);3;331;7319;2809;3711;1499
+04011;Stadt Bremen;2011-08;Insgesamt;90;9490;135758;34750;77417;19206
+04011;Stadt Bremen;2011-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;122825;32784;71705;18279
+04011;Stadt Bremen;2011-07;Sonstige Einrichtungen 3);3;331;7451;2668;3803;1446
+04011;Stadt Bremen;2011-07;Insgesamt;90;9490;130276;35452;75508;19725
+04011;Stadt Bremen;2011-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;124098;29483;71384;16262
+04011;Stadt Bremen;2011-06;Sonstige Einrichtungen 3);3;331;8419;2567;4134;1102
+04011;Stadt Bremen;2011-06;Insgesamt;90;9490;132517;32050;75518;17364
+04011;Stadt Bremen;2011-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;138520;31652;82328;17211
+04011;Stadt Bremen;2011-05;Sonstige Einrichtungen 3);3;331;7673;2195;3307;918
+04011;Stadt Bremen;2011-05;Insgesamt;90;9490;146193;33847;85635;18129
+04011;Stadt Bremen;2011-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;118003;28921;69429;15411
+04011;Stadt Bremen;2011-04;Sonstige Einrichtungen 3);3;331;6827;1409;3055;723
+04011;Stadt Bremen;2011-04;Insgesamt;90;9490;124830;30330;72484;16134
+04011;Stadt Bremen;2011-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;110055;26621;66883;14395
+04011;Stadt Bremen;2011-03;Sonstige Einrichtungen 3);3;331;6069;1322;2828;449
+04011;Stadt Bremen;2011-03;Insgesamt;90;9490;116124;27943;69711;14844
+04011;Stadt Bremen;2011-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;95964;21536;57950;11567
+04011;Stadt Bremen;2011-02;Sonstige Einrichtungen 3);3;331;4536;1210;2152;447
+04011;Stadt Bremen;2011-02;Insgesamt;90;9490;100500;22746;60102;12014
+04011;Stadt Bremen;2011-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;87;9159;85701;21653;53160;11722
+04011;Stadt Bremen;2011-01;Sonstige Einrichtungen 3);3;331;3896;780;1968;346
+04011;Stadt Bremen;2011-01;Insgesamt;90;9490;89597;22433;55128;12068
+04011;Stadt Bremen;2010-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;118622;29281;73864;15428
+04011;Stadt Bremen;2010-12;Sonstige Einrichtungen 3);4;391;4238;1098;2155;542
+04011;Stadt Bremen;2010-12;Insgesamt;87;9187;122860;30379;76019;15970
+04011;Stadt Bremen;2010-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;118318;27491;73892;14861
+04011;Stadt Bremen;2010-11;Sonstige Einrichtungen 3);4;391;5269;719;2687;372
+04011;Stadt Bremen;2010-11;Insgesamt;87;9187;123587;28210;76579;15233
+04011;Stadt Bremen;2010-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;141660;31849;83160;16993
+04011;Stadt Bremen;2010-10;Sonstige Einrichtungen 3);4;391;8220;1150;3860;658
+04011;Stadt Bremen;2010-10;Insgesamt;87;9187;149880;32999;87020;17651
+04011;Stadt Bremen;2010-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;130720;31551;78666;18191
+04011;Stadt Bremen;2010-09;Sonstige Einrichtungen 3);4;391;7069;1260;3308;682
+04011;Stadt Bremen;2010-09;Insgesamt;87;9187;137789;32811;81974;18873
+04011;Stadt Bremen;2010-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;121270;29505;70720;16554
+04011;Stadt Bremen;2010-08;Sonstige Einrichtungen 3);4;391;8133;3143;4111;1956
+04011;Stadt Bremen;2010-08;Insgesamt;87;9187;129403;32648;74831;18510
+04011;Stadt Bremen;2010-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;114160;36679;63937;17640
+04011;Stadt Bremen;2010-07;Sonstige Einrichtungen 3);4;391;7512;3964;3583;2202
+04011;Stadt Bremen;2010-07;Insgesamt;87;9187;121672;40643;67520;19842
+04011;Stadt Bremen;2010-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;112744;25766;67515;14893
+04011;Stadt Bremen;2010-06;Sonstige Einrichtungen 3);4;391;7245;1965;3364;1001
+04011;Stadt Bremen;2010-06;Insgesamt;87;9187;119989;27731;70879;15894
+04011;Stadt Bremen;2010-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;118927;28657;70721;15495
+04011;Stadt Bremen;2010-05;Sonstige Einrichtungen 3);4;391;8667;2227;3985;966
+04011;Stadt Bremen;2010-05;Insgesamt;87;9187;127594;30884;74706;16461
+04011;Stadt Bremen;2010-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;109150;29026;66658;15979
+04011;Stadt Bremen;2010-04;Sonstige Einrichtungen 3);4;391;6574;1514;2932;680
+04011;Stadt Bremen;2010-04;Insgesamt;87;9187;115724;30540;69590;16659
+04011;Stadt Bremen;2010-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;96728;24511;57192;12564
+04011;Stadt Bremen;2010-03;Sonstige Einrichtungen 3);4;391;8100;1629;3437;541
+04011;Stadt Bremen;2010-03;Insgesamt;87;9187;104828;26140;60629;13105
+04011;Stadt Bremen;2010-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;92798;20511;56935;11330
+04011;Stadt Bremen;2010-02;Sonstige Einrichtungen 3);4;391;4929;942;2203;455
+04011;Stadt Bremen;2010-02;Insgesamt;87;9187;97727;21453;59138;11785
+04011;Stadt Bremen;2010-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;83;8796;77657;18705;46693;9352
+04011;Stadt Bremen;2010-01;Sonstige Einrichtungen 3);4;391;2619;695;1141;330
+04011;Stadt Bremen;2010-01;Insgesamt;87;9187;80276;19400;47834;9682
+04011;Stadt Bremen;2009-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;105902;28314;62584;14360
+04011;Stadt Bremen;2009-12;Sonstige Einrichtungen 3);4;396;3496;969;1619;413
+04011;Stadt Bremen;2009-12;Insgesamt;77;8368;109398;29283;64203;14773
+04011;Stadt Bremen;2009-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;104038;27715;63149;14393
+04011;Stadt Bremen;2009-11;Sonstige Einrichtungen 3);4;396;4799;1167;2402;639
+04011;Stadt Bremen;2009-11;Insgesamt;77;8368;108837;28882;65551;15032
+04011;Stadt Bremen;2009-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;120058;31536;69287;16729
+04011;Stadt Bremen;2009-10;Sonstige Einrichtungen 3);4;396;7688;1339;3519;683
+04011;Stadt Bremen;2009-10;Insgesamt;77;8368;127746;32875;72806;17412
+04011;Stadt Bremen;2009-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;117982;33264;67154;16369
+04011;Stadt Bremen;2009-09;Sonstige Einrichtungen 3);4;396;8663;1741;3501;833
+04011;Stadt Bremen;2009-09;Insgesamt;77;8368;126645;35005;70655;17202
+04011;Stadt Bremen;2009-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;113077;32810;62925;17221
+04011;Stadt Bremen;2009-08;Sonstige Einrichtungen 3);4;396;7779;2839;3638;1681
+04011;Stadt Bremen;2009-08;Insgesamt;77;8368;120856;35649;66563;18902
+04011;Stadt Bremen;2009-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;96678;30484;55645;16384
+04011;Stadt Bremen;2009-07;Sonstige Einrichtungen 3);4;396;7819;3531;3865;2078
+04011;Stadt Bremen;2009-07;Insgesamt;77;8368;104497;34015;59510;18462
+04011;Stadt Bremen;2009-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;107075;28526;61859;14612
+04011;Stadt Bremen;2009-06;Sonstige Einrichtungen 3);4;396;7027;2238;3425;1228
+04011;Stadt Bremen;2009-06;Insgesamt;77;8368;114102;30764;65284;15840
+04011;Stadt Bremen;2009-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;122662;30888;68266;15532
+04011;Stadt Bremen;2009-05;Sonstige Einrichtungen 3);4;396;6565;1420;2544;647
+04011;Stadt Bremen;2009-05;Insgesamt;77;8368;129227;32308;70810;16179
+04011;Stadt Bremen;2009-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;99446;27342;58783;14903
+04011;Stadt Bremen;2009-04;Sonstige Einrichtungen 3);4;396;8260;1425;3560;628
+04011;Stadt Bremen;2009-04;Insgesamt;77;8368;107706;28767;62343;15531
+04011;Stadt Bremen;2009-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;94212;23905;55780;12050
+04011;Stadt Bremen;2009-03;Sonstige Einrichtungen 3);4;396;4866;1206;2254;590
+04011;Stadt Bremen;2009-03;Insgesamt;77;8368;99078;25111;58034;12640
+04011;Stadt Bremen;2009-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;85827;17957;51874;9705
+04011;Stadt Bremen;2009-02;Sonstige Einrichtungen 3);4;396;4275;878;1933;441
+04011;Stadt Bremen;2009-02;Insgesamt;77;8368;90102;18835;53807;10146
+04011;Stadt Bremen;2009-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7972;73349;15839;44328;7797
+04011;Stadt Bremen;2009-01;Sonstige Einrichtungen 3);4;396;3105;771;1475;419
+04011;Stadt Bremen;2009-01;Insgesamt;77;8368;76454;16610;45803;8216
+04011;Stadt Bremen;2008-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;101126;29052;61323;15634
+04011;Stadt Bremen;2008-12;Sonstige Einrichtungen 3);4;361;4518;1235;2501;652
+04011;Stadt Bremen;2008-12;Insgesamt;77;8097;105644;30287;63824;16286
+04011;Stadt Bremen;2008-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;112325;26090;67617;12970
+04011;Stadt Bremen;2008-11;Sonstige Einrichtungen 3);4;361;5020;1096;2368;580
+04011;Stadt Bremen;2008-11;Insgesamt;77;8097;117345;27186;69985;13550
+04011;Stadt Bremen;2008-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;119189;30708;67567;15277
+04011;Stadt Bremen;2008-10;Sonstige Einrichtungen 3);4;361;7612;1223;3627;652
+04011;Stadt Bremen;2008-10;Insgesamt;77;8097;126801;31931;71194;15929
+04011;Stadt Bremen;2008-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;124515;28773;72796;15623
+04011;Stadt Bremen;2008-09;Sonstige Einrichtungen 3);4;361;7816;1139;3206;635
+04011;Stadt Bremen;2008-09;Insgesamt;77;8097;132331;29912;76002;16258
+04011;Stadt Bremen;2008-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;113722;28442;63345;14503
+04011;Stadt Bremen;2008-08;Sonstige Einrichtungen 3);4;361;8097;2635;3919;1433
+04011;Stadt Bremen;2008-08;Insgesamt;77;8097;121819;31077;67264;15936
+04011;Stadt Bremen;2008-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;101973;30398;56298;15865
+04011;Stadt Bremen;2008-07;Sonstige Einrichtungen 3);4;361;6907;2120;3401;1088
+04011;Stadt Bremen;2008-07;Insgesamt;77;8097;108880;32518;59699;16953
+04011;Stadt Bremen;2008-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;109662;27719;65063;14856
+04011;Stadt Bremen;2008-06;Sonstige Einrichtungen 3);4;361;7915;2388;3411;1105
+04011;Stadt Bremen;2008-06;Insgesamt;77;8097;117577;30107;68474;15961
+04011;Stadt Bremen;2008-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;110661;22310;62620;11919
+04011;Stadt Bremen;2008-05;Sonstige Einrichtungen 3);4;361;8618;1731;3244;725
+04011;Stadt Bremen;2008-05;Insgesamt;77;8097;119279;24041;65864;12644
+04011;Stadt Bremen;2008-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;106178;24795;64769;13428
+04011;Stadt Bremen;2008-04;Sonstige Einrichtungen 3);4;361;7514;1527;3103;806
+04011;Stadt Bremen;2008-04;Insgesamt;77;8097;113692;26322;67872;14234
+04011;Stadt Bremen;2008-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;91334;21683;52736;11625
+04011;Stadt Bremen;2008-03;Sonstige Einrichtungen 3);4;361;6260;1679;2868;774
+04011;Stadt Bremen;2008-03;Insgesamt;77;8097;97594;23362;55604;12399
+04011;Stadt Bremen;2008-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;96795;18274;58960;9707
+04011;Stadt Bremen;2008-02;Sonstige Einrichtungen 3);4;361;4419;584;1931;317
+04011;Stadt Bremen;2008-02;Insgesamt;77;8097;101214;18858;60891;10024
+04011;Stadt Bremen;2008-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;73;7736;87756;20161;53532;9711
+04011;Stadt Bremen;2008-01;Sonstige Einrichtungen 3);4;361;3971;1069;1657;487
+04011;Stadt Bremen;2008-01;Insgesamt;77;8097;91727;21230;55189;10198
+04012;Stadt Bremerhaven;2018-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2463;44327;5450;25379;2645
+04012;Stadt Bremerhaven;2018-08;Sonstige Einrichtungen 3);5;268;3792;525;1551;246
+04012;Stadt Bremerhaven;2018-08;Insgesamt;27;2731;48119;5975;26930;2891
+04012;Stadt Bremerhaven;2018-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2463;41679;7028;23970;3219
+04012;Stadt Bremerhaven;2018-07;Sonstige Einrichtungen 3);5;268;3917;3072;1773;1381
+04012;Stadt Bremerhaven;2018-07;Insgesamt;27;2731;45596;10100;25743;4600
+04012;Stadt Bremerhaven;2018-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2463;38113;7844;21729;3446
+04012;Stadt Bremerhaven;2018-06;Sonstige Einrichtungen 3);5;268;3818;695;1398;258
+04012;Stadt Bremerhaven;2018-06;Insgesamt;27;2731;41931;8539;23127;3704
+04012;Stadt Bremerhaven;2018-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2463;40281;5945;23471;2443
+04012;Stadt Bremerhaven;2018-05;Sonstige Einrichtungen 3);5;268;3683;493;1647;175
+04012;Stadt Bremerhaven;2018-05;Insgesamt;27;2731;43964;6438;25118;2618
+04012;Stadt Bremerhaven;2018-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2463;31052;5208;16813;1909
+04012;Stadt Bremerhaven;2018-04;Sonstige Einrichtungen 3);5;268;3131;460;1317;151
+04012;Stadt Bremerhaven;2018-04;Insgesamt;27;2731;34183;5668;18130;2060
+04012;Stadt Bremerhaven;2018-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2463;27678;5143;14637;1721
+04012;Stadt Bremerhaven;2018-03;Sonstige Einrichtungen 3);5;268;3624;226;1270;95
+04012;Stadt Bremerhaven;2018-03;Insgesamt;27;2731;31302;5369;15907;1816
+04012;Stadt Bremerhaven;2018-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2463;24186;5204;12494;1649
+04012;Stadt Bremerhaven;2018-02;Sonstige Einrichtungen 3);5;268;1831;216;939;81
+04012;Stadt Bremerhaven;2018-02;Insgesamt;27;2731;26017;5420;13433;1730
+04012;Stadt Bremerhaven;2018-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2463;20543;4269;10913;1382
+04012;Stadt Bremerhaven;2018-01;Sonstige Einrichtungen 3);5;268;1315;196;602;84
+04012;Stadt Bremerhaven;2018-01;Insgesamt;27;2731;21858;4465;11515;1466
+04012;Stadt Bremerhaven;2017-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;21064;3277;11875;1311
+04012;Stadt Bremerhaven;2017-12;Sonstige Einrichtungen 3);5;268;1638;245;622;91
+04012;Stadt Bremerhaven;2017-12;Insgesamt;26;2515;22702;3522;12497;1402
+04012;Stadt Bremerhaven;2017-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;23842;4329;12854;1416
+04012;Stadt Bremerhaven;2017-11;Sonstige Einrichtungen 3);5;268;2211;216;960;77
+04012;Stadt Bremerhaven;2017-11;Insgesamt;26;2515;26053;4545;13814;1493
+04012;Stadt Bremerhaven;2017-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;33750;4516;17759;1692
+04012;Stadt Bremerhaven;2017-10;Sonstige Einrichtungen 3);5;268;3545;294;1403;99
+04012;Stadt Bremerhaven;2017-10;Insgesamt;26;2515;37295;4810;19162;1791
+04012;Stadt Bremerhaven;2017-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;33998;3841;19841;2062
+04012;Stadt Bremerhaven;2017-09;Sonstige Einrichtungen 3);5;268;4150;460;1685;268
+04012;Stadt Bremerhaven;2017-09;Insgesamt;26;2515;38148;4301;21526;2330
+04012;Stadt Bremerhaven;2017-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;39216;5187;21583;2339
+04012;Stadt Bremerhaven;2017-08;Sonstige Einrichtungen 3);5;268;4227;402;1774;188
+04012;Stadt Bremerhaven;2017-08;Insgesamt;26;2515;43443;5589;23357;2527
+04012;Stadt Bremerhaven;2017-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;35823;4614;20370;2372
+04012;Stadt Bremerhaven;2017-07;Sonstige Einrichtungen 3);5;268;4130;632;1838;253
+04012;Stadt Bremerhaven;2017-07;Insgesamt;26;2515;39953;5246;22208;2625
+04012;Stadt Bremerhaven;2017-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;34736;4118;19830;1740
+04012;Stadt Bremerhaven;2017-06;Sonstige Einrichtungen 3);5;268;4058;319;1831;170
+04012;Stadt Bremerhaven;2017-06;Insgesamt;26;2515;38794;4437;21661;1910
+04012;Stadt Bremerhaven;2017-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;33371;4296;18645;2062
+04012;Stadt Bremerhaven;2017-05;Sonstige Einrichtungen 3);5;268;4191;380;1723;160
+04012;Stadt Bremerhaven;2017-05;Insgesamt;26;2515;37562;4676;20368;2222
+04012;Stadt Bremerhaven;2017-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;28325;4062;14961;1652
+04012;Stadt Bremerhaven;2017-04;Sonstige Einrichtungen 3);5;268;4035;407;1615;193
+04012;Stadt Bremerhaven;2017-04;Insgesamt;26;2515;32360;4469;16576;1845
+04012;Stadt Bremerhaven;2017-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;24252;4267;12368;1431
+04012;Stadt Bremerhaven;2017-03;Sonstige Einrichtungen 3);5;268;2576;301;930;91
+04012;Stadt Bremerhaven;2017-03;Insgesamt;26;2515;26828;4568;13298;1522
+04012;Stadt Bremerhaven;2017-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;22063;4742;11388;1633
+04012;Stadt Bremerhaven;2017-02;Sonstige Einrichtungen 3);5;268;1297;305;510;89
+04012;Stadt Bremerhaven;2017-02;Insgesamt;26;2515;23360;5047;11898;1722
+04012;Stadt Bremerhaven;2017-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;21;2247;19680;3763;10867;1384
+04012;Stadt Bremerhaven;2017-01;Sonstige Einrichtungen 3);5;268;1020;303;418;104
+04012;Stadt Bremerhaven;2017-01;Insgesamt;26;2515;20700;4066;11285;1488
+04012;Stadt Bremerhaven;2016-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;20114;3084;11308;1257
+04012;Stadt Bremerhaven;2016-12;Sonstige Einrichtungen 3);2;212;984;239;417;75
+04012;Stadt Bremerhaven;2016-12;Insgesamt;24;2499;21098;3323;11725;1332
+04012;Stadt Bremerhaven;2016-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;22338;4310;12571;1579
+04012;Stadt Bremerhaven;2016-11;Sonstige Einrichtungen 3);2;212;1137;234;557;88
+04012;Stadt Bremerhaven;2016-11;Insgesamt;24;2499;23475;4544;13128;1667
+04012;Stadt Bremerhaven;2016-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;31250;4258;17462;1893
+04012;Stadt Bremerhaven;2016-10;Sonstige Einrichtungen 3);2;212;3798;299;1518;97
+04012;Stadt Bremerhaven;2016-10;Insgesamt;24;2499;35048;4557;18980;1990
+04012;Stadt Bremerhaven;2016-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;33578;4011;19472;1859
+04012;Stadt Bremerhaven;2016-09;Sonstige Einrichtungen 3);2;212;3396;279;1307;118
+04012;Stadt Bremerhaven;2016-09;Insgesamt;24;2499;36974;4290;20779;1977
+04012;Stadt Bremerhaven;2016-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;38245;4407;20725;2033
+04012;Stadt Bremerhaven;2016-08;Sonstige Einrichtungen 3);2;212;3947;731;1527;182
+04012;Stadt Bremerhaven;2016-08;Insgesamt;24;2499;42192;5138;22252;2215
+04012;Stadt Bremerhaven;2016-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;36229;4484;19226;2292
+04012;Stadt Bremerhaven;2016-07;Sonstige Einrichtungen 3);2;212;4033;629;1724;242
+04012;Stadt Bremerhaven;2016-07;Insgesamt;24;2499;40262;5113;20950;2534
+04012;Stadt Bremerhaven;2016-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;32371;4127;17836;2307
+04012;Stadt Bremerhaven;2016-06;Sonstige Einrichtungen 3);2;212;3624;507;1435;179
+04012;Stadt Bremerhaven;2016-06;Insgesamt;24;2499;35995;4634;19271;2486
+04012;Stadt Bremerhaven;2016-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;36659;4177;18628;1792
+04012;Stadt Bremerhaven;2016-05;Sonstige Einrichtungen 3);2;212;3969;744;1692;239
+04012;Stadt Bremerhaven;2016-05;Insgesamt;24;2499;40628;4921;20320;2031
+04012;Stadt Bremerhaven;2016-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;29590;4881;14558;1815
+04012;Stadt Bremerhaven;2016-04;Sonstige Einrichtungen 3);2;212;2582;442;1077;182
+04012;Stadt Bremerhaven;2016-04;Insgesamt;24;2499;32172;5323;15635;1997
+04012;Stadt Bremerhaven;2016-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;26834;3760;13765;1388
+04012;Stadt Bremerhaven;2016-03;Sonstige Einrichtungen 3);2;212;3202;245;1047;91
+04012;Stadt Bremerhaven;2016-03;Insgesamt;24;2499;30036;4005;14812;1479
+04012;Stadt Bremerhaven;2016-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;19953;2714;11133;1298
+04012;Stadt Bremerhaven;2016-02;Sonstige Einrichtungen 3);2;212;1563;401;775;93
+04012;Stadt Bremerhaven;2016-02;Insgesamt;24;2499;21516;3115;11908;1391
+04012;Stadt Bremerhaven;2016-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2287;20438;4783;9680;1351
+04012;Stadt Bremerhaven;2016-01;Sonstige Einrichtungen 3);2;212;1510;242;667;73
+04012;Stadt Bremerhaven;2016-01;Insgesamt;24;2499;21948;5025;10347;1424
+04012;Stadt Bremerhaven;2015-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;21695;3243;10898;1252
+04012;Stadt Bremerhaven;2015-12;Sonstige Einrichtungen 3);2;213;1975;238;607;103
+04012;Stadt Bremerhaven;2015-12;Insgesamt;22;2287;23670;3481;11505;1355
+04012;Stadt Bremerhaven;2015-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;26192;3550;13578;1533
+04012;Stadt Bremerhaven;2015-11;Sonstige Einrichtungen 3);2;213;1754;303;546;103
+04012;Stadt Bremerhaven;2015-11;Insgesamt;22;2287;27946;3853;14124;1636
+04012;Stadt Bremerhaven;2015-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;29948;3515;16197;1667
+04012;Stadt Bremerhaven;2015-10;Sonstige Einrichtungen 3);2;213;3170;378;1315;138
+04012;Stadt Bremerhaven;2015-10;Insgesamt;22;2287;33118;3893;17512;1805
+04012;Stadt Bremerhaven;2015-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;32841;4035;16675;1775
+04012;Stadt Bremerhaven;2015-09;Sonstige Einrichtungen 3);2;213;3399;556;1263;208
+04012;Stadt Bremerhaven;2015-09;Insgesamt;22;2287;36240;4591;17938;1983
+04012;Stadt Bremerhaven;2015-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;36225;4904;17920;1950
+04012;Stadt Bremerhaven;2015-08;Sonstige Einrichtungen 3);2;213;4294;561;1689;169
+04012;Stadt Bremerhaven;2015-08;Insgesamt;22;2287;40519;5465;19609;2119
+04012;Stadt Bremerhaven;2015-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;30177;4538;16222;2094
+04012;Stadt Bremerhaven;2015-07;Sonstige Einrichtungen 3);2;213;4289;653;1841;275
+04012;Stadt Bremerhaven;2015-07;Insgesamt;22;2287;34466;5191;18063;2369
+04012;Stadt Bremerhaven;2015-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;28664;4180;15578;1729
+04012;Stadt Bremerhaven;2015-06;Sonstige Einrichtungen 3);2;213;3535;485;1443;196
+04012;Stadt Bremerhaven;2015-06;Insgesamt;22;2287;32199;4665;17021;1925
+04012;Stadt Bremerhaven;2015-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;31623;3645;17082;1591
+04012;Stadt Bremerhaven;2015-05;Sonstige Einrichtungen 3);2;213;4025;649;1714;256
+04012;Stadt Bremerhaven;2015-05;Insgesamt;22;2287;35648;4294;18796;1847
+04012;Stadt Bremerhaven;2015-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;25873;3404;14139;1566
+04012;Stadt Bremerhaven;2015-04;Sonstige Einrichtungen 3);2;213;3927;291;1299;107
+04012;Stadt Bremerhaven;2015-04;Insgesamt;22;2287;29800;3695;15438;1673
+04012;Stadt Bremerhaven;2015-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;24354;3497;12044;1253
+04012;Stadt Bremerhaven;2015-03;Sonstige Einrichtungen 3);2;213;2227;428;991;92
+04012;Stadt Bremerhaven;2015-03;Insgesamt;22;2287;26581;3925;13035;1345
+04012;Stadt Bremerhaven;2015-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;19708;3279;10172;1175
+04012;Stadt Bremerhaven;2015-02;Sonstige Einrichtungen 3);2;213;1504;304;856;67
+04012;Stadt Bremerhaven;2015-02;Insgesamt;22;2287;21212;3583;11028;1242
+04012;Stadt Bremerhaven;2015-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2074;17823;3365;9135;1026
+04012;Stadt Bremerhaven;2015-01;Sonstige Einrichtungen 3);2;213;1335;262;593;100
+04012;Stadt Bremerhaven;2015-01;Insgesamt;22;2287;19158;3627;9728;1126
+04012;Stadt Bremerhaven;2014-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;20808;3308;10844;1231
+04012;Stadt Bremerhaven;2014-12;Sonstige Einrichtungen 3);2;212;577;106;301;52
+04012;Stadt Bremerhaven;2014-12;Insgesamt;24;2411;21385;3414;11145;1283
+04012;Stadt Bremerhaven;2014-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;23887;3698;12508;1345
+04012;Stadt Bremerhaven;2014-11;Sonstige Einrichtungen 3);2;212;1560;183;730;82
+04012;Stadt Bremerhaven;2014-11;Insgesamt;24;2411;25447;3881;13238;1427
+04012;Stadt Bremerhaven;2014-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;33106;5378;16112;1694
+04012;Stadt Bremerhaven;2014-10;Sonstige Einrichtungen 3);2;212;3627;266;1449;119
+04012;Stadt Bremerhaven;2014-10;Insgesamt;24;2411;36733;5644;17561;1813
+04012;Stadt Bremerhaven;2014-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;32538;3527;16926;1511
+04012;Stadt Bremerhaven;2014-09;Sonstige Einrichtungen 3);2;212;3397;352;1232;168
+04012;Stadt Bremerhaven;2014-09;Insgesamt;24;2411;35935;3879;18158;1679
+04012;Stadt Bremerhaven;2014-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;33252;3394;16679;1477
+04012;Stadt Bremerhaven;2014-08;Sonstige Einrichtungen 3);2;212;3886;390;1541;209
+04012;Stadt Bremerhaven;2014-08;Insgesamt;24;2411;37138;3784;18220;1686
+04012;Stadt Bremerhaven;2014-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;30764;3225;15938;1605
+04012;Stadt Bremerhaven;2014-07;Sonstige Einrichtungen 3);2;212;4192;474;1771;214
+04012;Stadt Bremerhaven;2014-07;Insgesamt;24;2411;34956;3699;17709;1819
+04012;Stadt Bremerhaven;2014-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;30560;3413;15308;1514
+04012;Stadt Bremerhaven;2014-06;Sonstige Einrichtungen 3);2;212;3232;352;1448;156
+04012;Stadt Bremerhaven;2014-06;Insgesamt;24;2411;33792;3765;16756;1670
+04012;Stadt Bremerhaven;2014-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;33208;4995;16272;1620
+04012;Stadt Bremerhaven;2014-05;Sonstige Einrichtungen 3);2;212;3234;622;1344;222
+04012;Stadt Bremerhaven;2014-05;Insgesamt;24;2411;36442;5617;17616;1842
+04012;Stadt Bremerhaven;2014-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;24401;2825;12821;1404
+04012;Stadt Bremerhaven;2014-04;Sonstige Einrichtungen 3);2;212;3375;463;1305;173
+04012;Stadt Bremerhaven;2014-04;Insgesamt;24;2411;27776;3288;14126;1577
+04012;Stadt Bremerhaven;2014-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;22576;3369;12123;1551
+04012;Stadt Bremerhaven;2014-03;Sonstige Einrichtungen 3);2;212;3066;634;1139;138
+04012;Stadt Bremerhaven;2014-03;Insgesamt;24;2411;25642;4003;13262;1689
+04012;Stadt Bremerhaven;2014-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;19146;3121;9270;1071
+04012;Stadt Bremerhaven;2014-02;Sonstige Einrichtungen 3);2;212;1642;349;619;98
+04012;Stadt Bremerhaven;2014-02;Insgesamt;24;2411;20788;3470;9889;1169
+04012;Stadt Bremerhaven;2014-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;22;2199;16718;2750;8603;1117
+04012;Stadt Bremerhaven;2014-01;Sonstige Einrichtungen 3);2;212;1566;434;651;112
+04012;Stadt Bremerhaven;2014-01;Insgesamt;24;2411;18284;3184;9254;1229
+04012;Stadt Bremerhaven;2013-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;19058;3484;10098;1358
+04012;Stadt Bremerhaven;2013-12;Sonstige Einrichtungen 3);2;253;770;276;384;128
+04012;Stadt Bremerhaven;2013-12;Insgesamt;22;2279;19828;3760;10482;1486
+04012;Stadt Bremerhaven;2013-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;21725;2728;11794;1260
+04012;Stadt Bremerhaven;2013-11;Sonstige Einrichtungen 3);2;253;1786;322;838;107
+04012;Stadt Bremerhaven;2013-11;Insgesamt;22;2279;23511;3050;12632;1367
+04012;Stadt Bremerhaven;2013-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;29456;3250;14912;1482
+04012;Stadt Bremerhaven;2013-10;Sonstige Einrichtungen 3);2;253;4166;562;1657;201
+04012;Stadt Bremerhaven;2013-10;Insgesamt;22;2279;33622;3812;16569;1683
+04012;Stadt Bremerhaven;2013-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;31318;2793;16108;1265
+04012;Stadt Bremerhaven;2013-09;Sonstige Einrichtungen 3);2;253;3435;416;1333;160
+04012;Stadt Bremerhaven;2013-09;Insgesamt;22;2279;34753;3209;17441;1425
+04012;Stadt Bremerhaven;2013-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;32059;3025;16116;1469
+04012;Stadt Bremerhaven;2013-08;Sonstige Einrichtungen 3);2;253;4214;685;1645;197
+04012;Stadt Bremerhaven;2013-08;Insgesamt;22;2279;36273;3710;17761;1666
+04012;Stadt Bremerhaven;2013-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;30124;4055;14963;1721
+04012;Stadt Bremerhaven;2013-07;Sonstige Einrichtungen 3);2;253;3638;715;1564;243
+04012;Stadt Bremerhaven;2013-07;Insgesamt;22;2279;33762;4770;16527;1964
+04012;Stadt Bremerhaven;2013-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;27710;3243;14470;1537
+04012;Stadt Bremerhaven;2013-06;Sonstige Einrichtungen 3);2;253;3713;716;1588;187
+04012;Stadt Bremerhaven;2013-06;Insgesamt;22;2279;31423;3959;16058;1724
+04012;Stadt Bremerhaven;2013-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;27429;3120;14134;1330
+04012;Stadt Bremerhaven;2013-05;Sonstige Einrichtungen 3);2;253;3762;545;1653;231
+04012;Stadt Bremerhaven;2013-05;Insgesamt;22;2279;31191;3665;15787;1561
+04012;Stadt Bremerhaven;2013-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;23716;2977;12050;1371
+04012;Stadt Bremerhaven;2013-04;Sonstige Einrichtungen 3);2;253;2657;304;952;121
+04012;Stadt Bremerhaven;2013-04;Insgesamt;22;2279;26373;3281;13002;1492
+04012;Stadt Bremerhaven;2013-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;20833;2897;10488;1240
+04012;Stadt Bremerhaven;2013-03;Sonstige Einrichtungen 3);2;253;3410;274;1010;92
+04012;Stadt Bremerhaven;2013-03;Insgesamt;22;2279;24243;3171;11498;1332
+04012;Stadt Bremerhaven;2013-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;16659;2309;8728;1197
+04012;Stadt Bremerhaven;2013-02;Sonstige Einrichtungen 3);2;253;1522;420;580;97
+04012;Stadt Bremerhaven;2013-02;Insgesamt;22;2279;18181;2729;9308;1294
+04012;Stadt Bremerhaven;2013-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;2026;16964;2616;8342;991
+04012;Stadt Bremerhaven;2013-01;Sonstige Einrichtungen 3);2;253;818;268;324;67
+04012;Stadt Bremerhaven;2013-01;Insgesamt;22;2279;17782;2884;8666;1058
+04012;Stadt Bremerhaven;2012-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;18540;2870;9543;1229
+04012;Stadt Bremerhaven;2012-12;Sonstige Einrichtungen 3);2;253;684;218;294;79
+04012;Stadt Bremerhaven;2012-12;Insgesamt;22;2196;19224;3088;9837;1308
+04012;Stadt Bremerhaven;2012-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;21685;2317;11563;1178
+04012;Stadt Bremerhaven;2012-11;Sonstige Einrichtungen 3);2;253;2103;318;918;82
+04012;Stadt Bremerhaven;2012-11;Insgesamt;22;2196;23788;2635;12481;1260
+04012;Stadt Bremerhaven;2012-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;28043;2855;13772;1381
+04012;Stadt Bremerhaven;2012-10;Sonstige Einrichtungen 3);2;253;4193;635;1521;157
+04012;Stadt Bremerhaven;2012-10;Insgesamt;22;2196;32236;3490;15293;1538
+04012;Stadt Bremerhaven;2012-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;28666;2619;14255;1173
+04012;Stadt Bremerhaven;2012-09;Sonstige Einrichtungen 3);2;253;3809;621;1418;209
+04012;Stadt Bremerhaven;2012-09;Insgesamt;22;2196;32475;3240;15673;1382
+04012;Stadt Bremerhaven;2012-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;31024;3146;15201;1394
+04012;Stadt Bremerhaven;2012-08;Sonstige Einrichtungen 3);2;253;4428;618;1752;238
+04012;Stadt Bremerhaven;2012-08;Insgesamt;22;2196;35452;3764;16953;1632
+04012;Stadt Bremerhaven;2012-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;30132;3437;15044;1673
+04012;Stadt Bremerhaven;2012-07;Sonstige Einrichtungen 3);2;253;4621;739;1835;289
+04012;Stadt Bremerhaven;2012-07;Insgesamt;22;2196;34753;4176;16879;1962
+04012;Stadt Bremerhaven;2012-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;28511;3120;14473;1318
+04012;Stadt Bremerhaven;2012-06;Sonstige Einrichtungen 3);2;253;3529;459;1354;201
+04012;Stadt Bremerhaven;2012-06;Insgesamt;22;2196;32040;3579;15827;1519
+04012;Stadt Bremerhaven;2012-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;27621;3152;14474;1438
+04012;Stadt Bremerhaven;2012-05;Sonstige Einrichtungen 3);2;253;3694;465;1510;194
+04012;Stadt Bremerhaven;2012-05;Insgesamt;22;2196;31315;3617;15984;1632
+04012;Stadt Bremerhaven;2012-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;25339;2321;13081;1043
+04012;Stadt Bremerhaven;2012-04;Sonstige Einrichtungen 3);2;253;4175;371;1432;150
+04012;Stadt Bremerhaven;2012-04;Insgesamt;22;2196;29514;2692;14513;1193
+04012;Stadt Bremerhaven;2012-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;21377;2582;10944;1188
+04012;Stadt Bremerhaven;2012-03;Sonstige Einrichtungen 3);2;253;2987;310;1171;133
+04012;Stadt Bremerhaven;2012-03;Insgesamt;22;2196;24364;2892;12115;1321
+04012;Stadt Bremerhaven;2012-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;18231;2855;9385;1302
+04012;Stadt Bremerhaven;2012-02;Sonstige Einrichtungen 3);2;253;1723;282;717;94
+04012;Stadt Bremerhaven;2012-02;Insgesamt;22;2196;19954;3137;10102;1396
+04012;Stadt Bremerhaven;2012-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1943;17004;2200;9076;1054
+04012;Stadt Bremerhaven;2012-01;Sonstige Einrichtungen 3);2;253;1137;333;489;134
+04012;Stadt Bremerhaven;2012-01;Insgesamt;22;2196;18141;2533;9565;1188
+04012;Stadt Bremerhaven;2011-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;19376;2525;9878;1194
+04012;Stadt Bremerhaven;2011-12;Sonstige Einrichtungen 3);2;253;742;211;339;78
+04012;Stadt Bremerhaven;2011-12;Insgesamt;22;2211;20118;2736;10217;1272
+04012;Stadt Bremerhaven;2011-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;22752;2690;11420;1182
+04012;Stadt Bremerhaven;2011-11;Sonstige Einrichtungen 3);2;253;4037;442;1781;175
+04012;Stadt Bremerhaven;2011-11;Insgesamt;22;2211;26789;3132;13201;1357
+04012;Stadt Bremerhaven;2011-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;30654;2641;15883;1175
+04012;Stadt Bremerhaven;2011-10;Sonstige Einrichtungen 3);2;253;4023;480;1753;176
+04012;Stadt Bremerhaven;2011-10;Insgesamt;22;2211;34677;3121;17636;1351
+04012;Stadt Bremerhaven;2011-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;30384;2374;15986;1218
+04012;Stadt Bremerhaven;2011-09;Sonstige Einrichtungen 3);2;253;3968;434;1377;181
+04012;Stadt Bremerhaven;2011-09;Insgesamt;22;2211;34352;2808;17363;1399
+04012;Stadt Bremerhaven;2011-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;32091;2992;15965;1384
+04012;Stadt Bremerhaven;2011-08;Sonstige Einrichtungen 3);2;253;3812;814;1510;245
+04012;Stadt Bremerhaven;2011-08;Insgesamt;22;2211;35903;3806;17475;1629
+04012;Stadt Bremerhaven;2011-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;30293;2760;15995;1378
+04012;Stadt Bremerhaven;2011-07;Sonstige Einrichtungen 3);2;253;4616;711;1766;312
+04012;Stadt Bremerhaven;2011-07;Insgesamt;22;2211;34909;3471;17761;1690
+04012;Stadt Bremerhaven;2011-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;31171;2475;16242;1431
+04012;Stadt Bremerhaven;2011-06;Sonstige Einrichtungen 3);2;253;4182;624;1873;226
+04012;Stadt Bremerhaven;2011-06;Insgesamt;22;2211;35353;3099;18115;1657
+04012;Stadt Bremerhaven;2011-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;27865;3852;14940;1610
+04012;Stadt Bremerhaven;2011-05;Sonstige Einrichtungen 3);2;253;3711;611;1491;203
+04012;Stadt Bremerhaven;2011-05;Insgesamt;22;2211;31576;4463;16431;1813
+04012;Stadt Bremerhaven;2011-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;25866;2534;13225;1235
+04012;Stadt Bremerhaven;2011-04;Sonstige Einrichtungen 3);2;253;3921;345;1352;142
+04012;Stadt Bremerhaven;2011-04;Insgesamt;22;2211;29787;2879;14577;1377
+04012;Stadt Bremerhaven;2011-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;20745;2708;10766;1134
+04012;Stadt Bremerhaven;2011-03;Sonstige Einrichtungen 3);2;253;1794;275;710;82
+04012;Stadt Bremerhaven;2011-03;Insgesamt;22;2211;22539;2983;11476;1216
+04012;Stadt Bremerhaven;2011-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;16309;2394;8692;1018
+04012;Stadt Bremerhaven;2011-02;Sonstige Einrichtungen 3);2;253;1093;249;445;98
+04012;Stadt Bremerhaven;2011-02;Insgesamt;22;2211;17402;2643;9137;1116
+04012;Stadt Bremerhaven;2011-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1958;19503;4711;8170;1265
+04012;Stadt Bremerhaven;2011-01;Sonstige Einrichtungen 3);2;253;1305;233;538;87
+04012;Stadt Bremerhaven;2011-01;Insgesamt;22;2211;20808;4944;8708;1352
+04012;Stadt Bremerhaven;2010-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;20617;4506;8843;1164
+04012;Stadt Bremerhaven;2010-12;Sonstige Einrichtungen 3);2;213;1287;285;477;63
+04012;Stadt Bremerhaven;2010-12;Insgesamt;22;2176;21904;4791;9320;1227
+04012;Stadt Bremerhaven;2010-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;22625;3637;11849;1359
+04012;Stadt Bremerhaven;2010-11;Sonstige Einrichtungen 3);2;213;1627;474;699;143
+04012;Stadt Bremerhaven;2010-11;Insgesamt;22;2176;24252;4111;12548;1502
+04012;Stadt Bremerhaven;2010-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;30706;3747;16257;1233
+04012;Stadt Bremerhaven;2010-10;Sonstige Einrichtungen 3);2;213;4233;332;1708;136
+04012;Stadt Bremerhaven;2010-10;Insgesamt;22;2176;34939;4079;17965;1369
+04012;Stadt Bremerhaven;2010-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;28599;2457;15201;1314
+04012;Stadt Bremerhaven;2010-09;Sonstige Einrichtungen 3);2;213;3720;386;1382;200
+04012;Stadt Bremerhaven;2010-09;Insgesamt;22;2176;32319;2843;16583;1514
+04012;Stadt Bremerhaven;2010-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;32017;2671;15166;1321
+04012;Stadt Bremerhaven;2010-08;Sonstige Einrichtungen 3);2;213;3986;401;1839;221
+04012;Stadt Bremerhaven;2010-08;Insgesamt;22;2176;36003;3072;17005;1542
+04012;Stadt Bremerhaven;2010-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;29496;2491;14920;1427
+04012;Stadt Bremerhaven;2010-07;Sonstige Einrichtungen 3);2;213;4080;760;1673;394
+04012;Stadt Bremerhaven;2010-07;Insgesamt;22;2176;33576;3251;16593;1821
+04012;Stadt Bremerhaven;2010-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;27319;2508;13904;1312
+04012;Stadt Bremerhaven;2010-06;Sonstige Einrichtungen 3);2;213;3818;474;1673;179
+04012;Stadt Bremerhaven;2010-06;Insgesamt;22;2176;31137;2982;15577;1491
+04012;Stadt Bremerhaven;2010-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;28076;3188;14763;1557
+04012;Stadt Bremerhaven;2010-05;Sonstige Einrichtungen 3);2;213;3697;594;1570;214
+04012;Stadt Bremerhaven;2010-05;Insgesamt;22;2176;31773;3782;16333;1771
+04012;Stadt Bremerhaven;2010-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;22907;2746;11727;1288
+04012;Stadt Bremerhaven;2010-04;Sonstige Einrichtungen 3);2;213;3929;467;1225;220
+04012;Stadt Bremerhaven;2010-04;Insgesamt;22;2176;26836;3213;12952;1508
+04012;Stadt Bremerhaven;2010-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;20921;2927;10677;1184
+04012;Stadt Bremerhaven;2010-03;Sonstige Einrichtungen 3);2;213;2423;212;919;83
+04012;Stadt Bremerhaven;2010-03;Insgesamt;22;2176;23344;3139;11596;1267
+04012;Stadt Bremerhaven;2010-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;15399;2083;7920;811
+04012;Stadt Bremerhaven;2010-02;Sonstige Einrichtungen 3);2;213;766;135;342;54
+04012;Stadt Bremerhaven;2010-02;Insgesamt;22;2176;16165;2218;8262;865
+04012;Stadt Bremerhaven;2010-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;20;1963;15311;2362;8034;899
+04012;Stadt Bremerhaven;2010-01;Sonstige Einrichtungen 3);2;213;1058;164;688;59
+04012;Stadt Bremerhaven;2010-01;Insgesamt;22;2176;16369;2526;8722;958
+04012;Stadt Bremerhaven;2009-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;15346;2343;7911;906
+04012;Stadt Bremerhaven;2009-12;Sonstige Einrichtungen 3);2;213;1284;403;716;193
+04012;Stadt Bremerhaven;2009-12;Insgesamt;21;1921;16630;2746;8627;1099
+04012;Stadt Bremerhaven;2009-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;19079;2726;10312;1179
+04012;Stadt Bremerhaven;2009-11;Sonstige Einrichtungen 3);2;213;1346;384;594;104
+04012;Stadt Bremerhaven;2009-11;Insgesamt;21;1921;20425;3110;10906;1283
+04012;Stadt Bremerhaven;2009-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;24173;2560;12224;1041
+04012;Stadt Bremerhaven;2009-10;Sonstige Einrichtungen 3);2;213;3871;424;1669;133
+04012;Stadt Bremerhaven;2009-10;Insgesamt;21;1921;28044;2984;13893;1174
+04012;Stadt Bremerhaven;2009-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;25212;3040;11757;1146
+04012;Stadt Bremerhaven;2009-09;Sonstige Einrichtungen 3);2;213;3252;442;1483;162
+04012;Stadt Bremerhaven;2009-09;Insgesamt;21;1921;28464;3482;13240;1308
+04012;Stadt Bremerhaven;2009-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;24678;2939;12155;1465
+04012;Stadt Bremerhaven;2009-08;Sonstige Einrichtungen 3);2;213;4024;1137;1521;261
+04012;Stadt Bremerhaven;2009-08;Insgesamt;21;1921;28702;4076;13676;1726
+04012;Stadt Bremerhaven;2009-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;22273;2886;10666;1128
+04012;Stadt Bremerhaven;2009-07;Sonstige Einrichtungen 3);2;213;3955;530;1540;234
+04012;Stadt Bremerhaven;2009-07;Insgesamt;21;1921;26228;3416;12206;1362
+04012;Stadt Bremerhaven;2009-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;21558;2344;11064;1100
+04012;Stadt Bremerhaven;2009-06;Sonstige Einrichtungen 3);2;213;2893;625;1220;285
+04012;Stadt Bremerhaven;2009-06;Insgesamt;21;1921;24451;2969;12284;1385
+04012;Stadt Bremerhaven;2009-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;23554;3696;11399;1340
+04012;Stadt Bremerhaven;2009-05;Sonstige Einrichtungen 3);2;213;3688;681;1260;245
+04012;Stadt Bremerhaven;2009-05;Insgesamt;21;1921;27242;4377;12659;1585
+04012;Stadt Bremerhaven;2009-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;18455;3431;8654;1154
+04012;Stadt Bremerhaven;2009-04;Sonstige Einrichtungen 3);2;213;2901;365;817;120
+04012;Stadt Bremerhaven;2009-04;Insgesamt;21;1921;21356;3796;9471;1274
+04012;Stadt Bremerhaven;2009-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;17936;4245;8019;1297
+04012;Stadt Bremerhaven;2009-03;Sonstige Einrichtungen 3);2;213;1019;354;433;133
+04012;Stadt Bremerhaven;2009-03;Insgesamt;21;1921;18955;4599;8452;1430
+04012;Stadt Bremerhaven;2009-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;14796;3226;6906;1028
+04012;Stadt Bremerhaven;2009-02;Sonstige Einrichtungen 3);2;213;1048;276;479;108
+04012;Stadt Bremerhaven;2009-02;Insgesamt;21;1921;15844;3502;7385;1136
+04012;Stadt Bremerhaven;2009-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1708;13059;3508;6114;1194
+04012;Stadt Bremerhaven;2009-01;Sonstige Einrichtungen 3);2;213;880;361;321;74
+04012;Stadt Bremerhaven;2009-01;Insgesamt;21;1921;13939;3869;6435;1268
+04012;Stadt Bremerhaven;2008-12;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;13080;2985;6861;1104
+04012;Stadt Bremerhaven;2008-12;Sonstige Einrichtungen 3);3;249;2098;459;810;201
+04012;Stadt Bremerhaven;2008-12;Insgesamt;22;1891;15178;3444;7671;1305
+04012;Stadt Bremerhaven;2008-11;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;16107;4550;7599;1159
+04012;Stadt Bremerhaven;2008-11;Sonstige Einrichtungen 3);3;249;2195;1014;795;337
+04012;Stadt Bremerhaven;2008-11;Insgesamt;22;1891;18302;5564;8394;1496
+04012;Stadt Bremerhaven;2008-10;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;21510;4449;10617;1356
+04012;Stadt Bremerhaven;2008-10;Sonstige Einrichtungen 3);3;249;3244;716;1212;340
+04012;Stadt Bremerhaven;2008-10;Insgesamt;22;1891;24754;5165;11829;1696
+04012;Stadt Bremerhaven;2008-09;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;22577;3311;11801;1587
+04012;Stadt Bremerhaven;2008-09;Sonstige Einrichtungen 3);3;249;4477;440;1583;255
+04012;Stadt Bremerhaven;2008-09;Insgesamt;22;1891;27054;3751;13384;1842
+04012;Stadt Bremerhaven;2008-08;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;24916;5451;11940;1964
+04012;Stadt Bremerhaven;2008-08;Sonstige Einrichtungen 3);3;249;4861;975;2016;346
+04012;Stadt Bremerhaven;2008-08;Insgesamt;22;1891;29777;6426;13956;2310
+04012;Stadt Bremerhaven;2008-07;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;23182;4088;12722;1673
+04012;Stadt Bremerhaven;2008-07;Sonstige Einrichtungen 3);3;249;4848;1180;1997;395
+04012;Stadt Bremerhaven;2008-07;Insgesamt;22;1891;28030;5268;14719;2068
+04012;Stadt Bremerhaven;2008-06;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;20998;3198;12271;1396
+04012;Stadt Bremerhaven;2008-06;Sonstige Einrichtungen 3);3;249;2874;408;1429;215
+04012;Stadt Bremerhaven;2008-06;Insgesamt;22;1891;23872;3606;13700;1611
+04012;Stadt Bremerhaven;2008-05;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;21578;3412;12376;1509
+04012;Stadt Bremerhaven;2008-05;Sonstige Einrichtungen 3);3;249;4275;770;1710;269
+04012;Stadt Bremerhaven;2008-05;Insgesamt;22;1891;25853;4182;14086;1778
+04012;Stadt Bremerhaven;2008-04;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;17164;3035;9835;1393
+04012;Stadt Bremerhaven;2008-04;Sonstige Einrichtungen 3);3;249;2426;658;1002;287
+04012;Stadt Bremerhaven;2008-04;Insgesamt;22;1891;19590;3693;10837;1680
+04012;Stadt Bremerhaven;2008-03;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;18902;4002;10911;1625
+04012;Stadt Bremerhaven;2008-03;Sonstige Einrichtungen 3);3;249;3416;383;878;130
+04012;Stadt Bremerhaven;2008-03;Insgesamt;22;1891;22318;4385;11789;1755
+04012;Stadt Bremerhaven;2008-02;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;12187;2405;6612;1094
+04012;Stadt Bremerhaven;2008-02;Sonstige Einrichtungen 3);3;249;1569;305;645;116
+04012;Stadt Bremerhaven;2008-02;Insgesamt;22;1891;13756;2710;7257;1210
+04012;Stadt Bremerhaven;2008-01;Hotels, Hotels garnis, Gasthöfe, Pensionen;19;1642;12265;2361;5865;1117
+04012;Stadt Bremerhaven;2008-01;Sonstige Einrichtungen 3);3;249;1148;285;560;119
+04012;Stadt Bremerhaven;2008-01;Insgesamt;22;1891;13413;2646;6425;1236
+
+1) Bis 2011: Betriebe mit 9 oder mehr Betten, ab 2012: Betriebe mit 10 oder mehr Betten.
+
+2) Bei Campingplätzen wird 1 Stellplatz in 4 Schafgelegenheiten umgerechnet.
+
+3) Erholungs- und Ferienheime, Schulungsheime, Schullandheime, Ferienhäuser und Ferienwohnungen, Ferienzentren, Hütten, Jugendherbergen und jugendherbergsähnliche Einrichtungen, Vorsorge- und Rehabilitationseinrichtungen, Campingplätze.
+
+4) Die ausgewiesenen Werte beinhalten auch rückwirkende Korrekturen der Merkmale (durch Auskunftspflichtige).
+
+
+© Statistisches Landesamt Bremen
