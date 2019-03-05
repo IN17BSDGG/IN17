@@ -1,1 +1,6 @@
-# Willkommen auf der Übersicht des Projekts von der IN17
+# Schwarzes Brett:
+# Bitte wichtige Änderungen an Dateien hier notieren
+
+bla
+blub
+bla
