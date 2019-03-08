@@ -1,8 +1,0 @@
-X:\Informatik\IN17\vanderwoudec\Lehrjahr 2\LF6 Trimkowski\Parser_SQL_Hamburg_aus_CSV\Parser_SQL_Hamburg_aus_CSV\obj\Debug\Parser_SQL_Hamburg_aus_CSV.csprojResolveAssemblyReference.cache
-X:\Informatik\IN17\vanderwoudec\Lehrjahr 2\LF6 Trimkowski\Parser_SQL_Hamburg_aus_CSV\Parser_SQL_Hamburg_aus_CSV\obj\Debug\Parser_SQL_Hamburg_aus_CSV.form_CSVParser.resources
-X:\Informatik\IN17\vanderwoudec\Lehrjahr 2\LF6 Trimkowski\Parser_SQL_Hamburg_aus_CSV\Parser_SQL_Hamburg_aus_CSV\obj\Debug\Parser_SQL_Hamburg_aus_CSV.Properties.Resources.resources
-X:\Informatik\IN17\vanderwoudec\Lehrjahr 2\LF6 Trimkowski\Parser_SQL_Hamburg_aus_CSV\Parser_SQL_Hamburg_aus_CSV\obj\Debug\Parser_SQL_Hamburg_aus_CSV.csproj.GenerateResource.Cache
-X:\Informatik\IN17\vanderwoudec\Lehrjahr 2\LF6 Trimkowski\Parser_SQL_Hamburg_aus_CSV\Parser_SQL_Hamburg_aus_CSV\bin\Debug\Parser_SQL_Hamburg_aus_CSV.exe
-X:\Informatik\IN17\vanderwoudec\Lehrjahr 2\LF6 Trimkowski\Parser_SQL_Hamburg_aus_CSV\Parser_SQL_Hamburg_aus_CSV\bin\Debug\Parser_SQL_Hamburg_aus_CSV.pdb
-X:\Informatik\IN17\vanderwoudec\Lehrjahr 2\LF6 Trimkowski\Parser_SQL_Hamburg_aus_CSV\Parser_SQL_Hamburg_aus_CSV\obj\Debug\Parser_SQL_Hamburg_aus_CSV.exe
-X:\Informatik\IN17\vanderwoudec\Lehrjahr 2\LF6 Trimkowski\Parser_SQL_Hamburg_aus_CSV\Parser_SQL_Hamburg_aus_CSV\obj\Debug\Parser_SQL_Hamburg_aus_CSV.pdb
