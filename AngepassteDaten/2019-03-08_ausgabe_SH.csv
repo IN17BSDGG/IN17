@@ -1,3 +1,4 @@
+jahr (FK),monat (FK),landkreis (FK),ankuenfte,uebernachtungen
 2009,01,01001,4938,8124
 2009,01,01002,11928,25168
 2009,01,01003,21507,43169
