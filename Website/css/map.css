@@ -1,0 +1,17 @@
+* {
+	margin: 0em;
+	padding: 0em;
+}
+
+html, body {
+	height: 100vh;
+}
+
+/* 
+ * Alles ab hier ist für die Karte relevant!
+ */
+
+#landkreisKarte {
+	height: 100%;
+	width: 100%;
+}
