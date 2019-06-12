@@ -1,0 +1,1 @@
+<footer class="bdT ta-c p-30 lh-0 fsz-sm c-grey-600"><span>Copyright © 2018 - 2019 Designed by <a href="http://bsdgg.de" target="_blank" title="Berufliche Schule für Diestleistung Gewerbe und Design">Berufliche Schule für Dienstleistung Gewerbe und Gestaltung</a>. All rights reserved.</span></footer>

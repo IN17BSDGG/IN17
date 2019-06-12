@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="demo">
+<h1>The XMLHttpRequest Object</h1>
+<button type="button" onclick="loadDoc()">Change Content</button>
+</div>
+
+<script>
+function loadDoc() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      xd = JSON.parse(this.responseText);
+	  console.log(xd);
+    }
+  };
+  xhttp.open("GET", "http://s-web.it.gla/in17/boeltes/statistika/system/api/bd.php", true);
+  xhttp.send();
+}
+loadDoc();
+</script>
+
+</body>
+</html>
